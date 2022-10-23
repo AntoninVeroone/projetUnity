@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd8c4bb86ee5c6d47a66a3f74fc2461e, type: 3}
+  m_Name: AntoninLines
+  m_EditorClassIdentifier: 
+  speaker: Antonin
+  lines:
+  - "Antonin<br><i>Il serait peut-\xEAtre temps que je me mette au mini-projet de
+    programmation 3D"
+  - "<color=\"red\">D\xE9mon int\xE9rieur<br>\"Oula ! Ca va pas la t\xEAte ! Tu vas
+    pas commencer \xE0 travailler un dimanche ?!\""
+  - "<color=\"blue\">Ange int\xE9rieur<br>\"Pourtant il va falloir travailler, et
+    tout de suite !\""
+  - "<color=\"red\">D\xE9mon int\xE9rieur<br>\"Arr\xEAte, il est m\xEAme pas 20H,
+    y'a le temps...\""
+  - "<color=\"blue\">Ange int\xE9rieur<br>\"Ah non hein ! On va pas attendre qu'il
+    soit trop tard et finir comme avec le premier mini-projet !\""
+  - "Antonin<br><i>C'est vrai que j'ai rendu un travail vraiment bacl\xE9 la premi\xE8re
+    fois..."
+  - "<color=\"blue\">Ange int\xE9rieur<br>\"Cette fois-ci on va faire quelque chose
+    de propre\""
+  - "<color=\"red\">D\xE9mon int\xE9rieur<br>\"C'est tr\xE8s bien tout \xE7a mais
+    moi j'ai la flemme.\""
+  - "<color=\"blue\">Ange int\xE9rieur<br>\"Tu te tais toi ! Arr\xEAte de faire l'enfant
+    !\""
+  - "<color=\"blue\">Ange int\xE9rieur<br>\"En plus si on s'y prend \xE0 la derni\xE8re
+    minute tu vas encore te plaindre que \xE7a te stresse.\""
+  - "<color=\"red\">D\xE9mon int\xE9rieur<br>\"Pfff ! On peut vraiment pas discuter
+    avec toi ..."
+  - "<color=\"blue\">Ange int\xE9rieur<br><b>\"CA SUFFIT MAINTENANT !!!\""
+  - "<color=\"blue\">Ange int\xE9rieur<br>\"Et maintenant tu vas travailler Antonin
+    !\""
+  - Antonin<br>"D'accord c'est bon j'ai compris"
+  - Antonin<br><i>C'est vraiment un grand malade lui...
+  - "<color=\"blue\">Ange int\xE9rieur<br><b>JE T'AI ENTENDU !!!"
+  - Antonin<br>"Bon laissez moi tranquille maintenant je dois me concentrer."
